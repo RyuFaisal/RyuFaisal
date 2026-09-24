@@ -14,18 +14,18 @@
 - System Design
 
 ### 📋 **Projecs**  
-- E
-- g
-- f
+1. **Automated Code Review and Bug Detection**
+***Tech Stack: Python, TensorFlow/PyTorch, Transformer models (CodeBERT, GPT-4), Static Code Analysis, GitHub API)***  
+Key Features:
+- Train on open-source repositories to detect bugs and suggest improvements
+- Multi-language support
+- Integration into CI/CD pipelines
+
 
 ### 💻 **Freelance**  
 - [Fiverr](https://www.youtube.com/@Ryufaisal/)
 - [Upwork](https://www.youtube.com/@Ryufaisal/)
 - [Freelancer](https://www.youtube.com/@Ryufaisal/)
-  
-### 📈 **Business**  
-- M
-- M
 
 ### 🏆 **Competitive Programming**  
 - [LeetCode](https://leetcode.com/u/ryufaisal/)  
