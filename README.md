@@ -1,13 +1,17 @@
 # Hey All 👋  
 
-**Ryu**.
+#Ryu
 
 ### 🎓 **Academia**  
+- Teacher
 - AI and ML Researcher
 
 ### 🔧 **Tech & Engineering**  
 - Machine Learning Engineer
-- System and D
+
+### ⚙️ **System and Design**  
+- System Architect
+- System Design
 
 ### 📋 **Projecs**  
 - E
