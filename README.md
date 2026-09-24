@@ -26,6 +26,24 @@ Key Features:
 - Leverages synthetic data augmentation for better accuracy
 
 
+3. **Large-Scale Recommendation System**
+
+
+Tech Stack: Python, PyTorch/TensorFlow, Spark, ScaNN, AWS/GCP
+Key Features:
+- Collaborative filtering, deep learning, and reinforcement learning models
+- Distributed training for large-scale recommendations
+- Optimized real-time personalization and scalability
+
+4.  **Detecting Fake News & Misinformation AI**
+
+
+Tech Stack: Python, Hugging Face Transformers (BERT, T5), PyTorch, FastAPI
+Key Features:
+- NLP-based classification of fake news
+- Fact-checking using knowledge bases
+- API for real-time analysis
+
 ### 💻 **Freelance**  
 - [Fiverr](https://www.youtube.com/@Ryufaisal/)
 - [Upwork](https://www.youtube.com/@Ryufaisal/)
