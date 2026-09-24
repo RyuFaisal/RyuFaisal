@@ -9,11 +9,22 @@
 1. **Automated Code Review and Bug Detection**
 
 
-Tech Stack: Python, TensorFlow/PyTorch, Transformer models (CodeBERT, GPT-4), Static Code Analysis, GitHub, API  
+Tech Stack: Python, TensorFlow, Transformer models (CodeBERT, GPT-4), Static Code Analysis, GitHub, API  
 Key Features:
 - Train on open-source repositories to detect bugs and suggest improvements
 - Multi-language support
 - Integration into CI/CD pipelines
+
+
+2. **Financial Fraud Detection**
+
+
+Tech Stack: Python, Scikit-learn, XGBoost, PyTorch, Graph Neural Networks (GNNS), AWS/GCP
+Key Features:
+- Uses anomaly detection and supervised learning for fraud classification
+- Real-time monitoring with dashboards 
+- Leverages synthetic data augmentation for better accuracy
+
 
 ### 💻 **Freelance**  
 - [Fiverr](https://www.youtube.com/@Ryufaisal/)
