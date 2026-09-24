@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hey All 👋  
 
-<!--
-**RyuFaisal/RyuFaisal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ryu**.
 
-Here are some ideas to get you started:
+### 🎓 **Academia**  
+- AI and ML Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 **Tech & Engineering**  
+- Machine Learning Engineer
+- System and D
+
+### 📋 **Projecs**  
+- E
+
+### 📈 **Business**  
+- M
+- M
+- F
+
+### 🏆 **Competitive Programming**  
+- [LeetCode](https://leetcode.com/u/ryufaisal/)  
+
+### 📊 **Data**  
+- Grandmaster on [Kaggle](https://www.kaggle.com/ryufaisal)  
+
+### 📚 **Research Publications**  
+- Researcher on [ResearchGate](https://www.researchgate.net/profile/ryuFaisal)  
+- Scholar on [Google Scholar](https://scholar.google.com/)
+
+### ▶️ **Youtube Channel**  
+- [Ryu Faisal](https://www.youtube.com/@Ryufaisal/)
