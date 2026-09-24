@@ -1,6 +1,6 @@
 # Hey All 👋  
 
-#Ryu
+# Ryu
 
 ### 🎓 **Academia**  
 - Teacher
