@@ -18,10 +18,10 @@
 - g
 - f
 
-### 📋 **Freelance**  
-- E
-- g
-- 
+### 💻 **Freelance**  
+- [Fiverr](https://www.youtube.com/@Ryufaisal/)
+- [Upwork](https://www.youtube.com/@Ryufaisal/)
+- [Freelancer](https://www.youtube.com/@Ryufaisal/)
   
 ### 📈 **Business**  
 - M
