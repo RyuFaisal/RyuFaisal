@@ -10,8 +10,8 @@
 - System Design
 
 ### 📋 **Projecs**  
-1. **Automated Code Review and Bug Detection**/
-***Tech Stack: Python, TensorFlow/PyTorch, Transformer models (CodeBERT, GPT-4), Static Code Analysis, GitHub API)***  
+1. **Automated Code Review and Bug Detection**
+   Tech Stack: Python, TensorFlow/PyTorch, Transformer models (CodeBERT, GPT-4), Static Code Analysis, GitHub, API
 Key Features:
 - Train on open-source repositories to detect bugs and suggest improvements
 - Multi-language support
