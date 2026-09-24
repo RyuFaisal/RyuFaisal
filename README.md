@@ -19,7 +19,7 @@ Key Features:
 2. **Financial Fraud Detection**
 
 
-Tech Stack: Python, Scikit-learn, XGBoost, PyTorch, Graph Neural Networks (GNNS), AWS/GCP
+Tech Stack: Python, Scikit-learn, XGBoost, PyTorch, Graph Neural Networks (GNNS), AWS/GCP  
 Key Features:
 - Uses anomaly detection and supervised learning for fraud classification
 - Real-time monitoring with dashboards 
@@ -29,7 +29,7 @@ Key Features:
 3. **Large-Scale Recommendation System**
 
 
-Tech Stack: Python, PyTorch/TensorFlow, Spark, ScaNN, AWS/GCP
+Tech Stack: Python, PyTorch/TensorFlow, Spark, ScaNN, AWS/GCP  
 Key Features:
 - Collaborative filtering, deep learning, and reinforcement learning models
 - Distributed training for large-scale recommendations
@@ -38,7 +38,7 @@ Key Features:
 4.  **Detecting Fake News & Misinformation AI**
 
 
-Tech Stack: Python, Hugging Face Transformers (BERT, T5), PyTorch, FastAPI
+Tech Stack: Python, Hugging Face Transformers (BERT, T5), PyTorch, FastAPI  
 Key Features:
 - NLP-based classification of fake news
 - Fact-checking using knowledge bases
@@ -47,7 +47,6 @@ Key Features:
 ### 💻 **Freelance**  
 - [Fiverr](https://www.youtube.com/@Ryufaisal/)
 - [Upwork](https://www.youtube.com/@Ryufaisal/)
-- [Freelancer](https://www.youtube.com/@Ryufaisal/)
 
 ### 🏆 **Competitive Programming**  
 - [LeetCode](https://leetcode.com/u/ryufaisal/)  
