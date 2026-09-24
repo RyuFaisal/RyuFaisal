@@ -1,7 +1,3 @@
-### 🎓 **Academia**  
-- Teacher
-- AI and ML Researcher
-
 ### 🔧 **Tech & Engineering**  
 - Machine Learning Engineer
 
