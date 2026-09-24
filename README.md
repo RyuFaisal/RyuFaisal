@@ -1,7 +1,3 @@
-# Hey All 👋  
-
-# Ryu
-
 ### 🎓 **Academia**  
 - Teacher
 - AI and ML Researcher
