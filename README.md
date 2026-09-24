@@ -15,11 +15,17 @@
 
 ### 📋 **Projecs**  
 - E
+- g
+- f
 
+### 📋 **Freelance**  
+- E
+- g
+- 
+  
 ### 📈 **Business**  
 - M
 - M
-- F
 
 ### 🏆 **Competitive Programming**  
 - [LeetCode](https://leetcode.com/u/ryufaisal/)  
